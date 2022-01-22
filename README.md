@@ -1,5 +1,8 @@
 # gorp
 
+### Usage
+
+Install this and type `gorp` in your terminal without looking at the source code.
 
 ### Installation (macos):
 
