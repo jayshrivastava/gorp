@@ -37,4 +37,10 @@ rm gorp
 
 ```
 
+### Uninstall
+```shell
+sudo rm /usr/local/bin/gorp
+```
+
+
 
